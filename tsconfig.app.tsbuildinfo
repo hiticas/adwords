@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/budgetchart.tsx","./src/components/budgetform.tsx","./src/components/budgethistory.tsx","./src/components/costs.tsx","./src/components/dailyreport.tsx","./src/components/dashboard.tsx","./src/components/livebudget.tsx","./src/components/sidebar.tsx","./src/helpers/index.ts"],"version":"5.6.2"}
